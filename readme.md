@@ -2,33 +2,33 @@
 
 this web app is an interactive dashboard that leverages AI to analyze the relationship between government climate spending and local climate resilience. By combining public spending data with climate risk metrics, this web app helps citizens and policymakers understand the impact of climate-related investments.
 
-## 🌟 Features
+## Features
 
-### 💰 Spending Transparency
+### Spending Transparency
 - Real-time visualization of climate-related government expenditures
 - Geographic breakdown by zip code and county
 - Integration with USASpending.gov and state budget data
 - Categories include flood control, renewable energy, and disaster relief
 
-### 🔮 Climate Risk Forecasting
+### Climate Risk Forecasting
 - Predictive analytics for climate risks (5-10 year forecasts)
 - Integration with NASA and NOAA datasets
 - Analysis of flood zones, temperature trends, wildfires, and drought conditions
 - Machine learning-powered risk assessment
 
-### 🤖 AI Assistant
+### AI Assistant
 - Natural language query interface
 - Complex question answering about climate spending and risks
 - Visual and textual response generation
 - Powered by Google Vertex AI/Gemini
 
-### 📊 Impact Correlation Engine
+### Impact Correlation Engine
 - Statistical analysis of spending effectiveness
 - Correlation between government investments and climate risk changes
 - AI-powered insight generation
 - Interactive visualizations
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - Next.js 14
@@ -47,7 +47,7 @@ this web app is an interactive dashboard that leverages AI to analyze the relati
   - Vertex AI/Gemini
   - BigQuery
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 18+
